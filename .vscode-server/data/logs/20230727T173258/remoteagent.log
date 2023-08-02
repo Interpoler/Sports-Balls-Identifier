@@ -1,0 +1,35 @@
+2023-07-27 17:32:58.279 [info] 
+
+
+
+
+2023-07-27 17:32:58.352 [info] Extension host agent started.
+2023-07-27 17:32:58.537 [info] Migrating extensions from old default profile location file:///home/nvidia/.vscode-server/data/User/extensions.json
+2023-07-27 17:32:58.580 [info] [127.0.0.1][9d318d82][ManagementConnection] New connection established.
+2023-07-27 17:32:58.586 [info] [127.0.0.1][0ebc0b2d][ExtensionHostConnection] New connection established.
+2023-07-27 17:32:58.618 [info] Migrated extensions from old default profile location to new location file:///home/nvidia/.vscode-server/data/User/extensions.json file:///home/nvidia/.vscode-server/extensions/extensions.json
+2023-07-27 17:32:58.998 [info] [127.0.0.1][0ebc0b2d][ExtensionHostConnection] <16953> Launched Extension Host Process.
+2023-07-27 17:35:29.203 [info] [127.0.0.1][9d318d82][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-27 17:35:29.296 [info] [127.0.0.1][0ebc0b2d][ExtensionHostConnection] <16953> Extension Host Process exited with code: 0, signal: null.
+2023-07-27 17:35:29.297 [info] Cancelling previous shutdown timeout
+2023-07-27 17:35:29.297 [info] Last EH closed, waiting before shutting down
+2023-07-27 17:35:37.059 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-07-27 17:35:37.059 [info] Cancelling previous shutdown timeout
+2023-07-27 17:35:37.233 [info] [127.0.0.1][a43c50e7][ManagementConnection] New connection established.
+2023-07-27 17:35:37.298 [info] [127.0.0.1][9199c3e0][ExtensionHostConnection] New connection established.
+2023-07-27 17:35:37.318 [info] [127.0.0.1][9199c3e0][ExtensionHostConnection] <17255> Launched Extension Host Process.
+2023-07-27 17:36:59.400 [info] Getting Manifest... ms-python.python
+2023-07-27 17:36:59.688 [info] Installing extension: ms-python.python
+2023-07-27 17:37:00.634 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-27 17:37:00.900 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-07-27 17:37:11.039 [info] Extension signature is verified: ms-python.python
+2023-07-27 17:37:17.219 [info] Extracted extension to /home/nvidia/.vscode-server/extensions/.4659c2b0-c642-440d-bed0-b019611937bf: ms-python.python
+2023-07-27 17:37:17.443 [info] Renamed to /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0
+2023-07-27 17:37:17.465 [info] Extracting extension completed. ms-python.python
+2023-07-27 17:37:57.567 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-07-27 17:38:08.005 [info] Extracted extension to /home/nvidia/.vscode-server/extensions/.846d0a1b-d682-46b4-83bf-a544bb2e92e7: ms-python.vscode-pylance
+2023-07-27 17:38:08.092 [info] Renamed to /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40
+2023-07-27 17:38:08.102 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-07-27 17:38:08.127 [info] Extension installed successfully: ms-python.python
+2023-07-27 17:38:08.127 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-07-27 17:40:37.062 [info] New EH opened, aborting shutdown

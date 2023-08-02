@@ -1,0 +1,18 @@
+2023-08-01 09:54:24.501 [info] [Info  - 9:54:24 AM] (20304) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-08-01 09:54:24.502 [info] [Info  - 9:54:24 AM] (20304) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-01 09:54:24.503 [info] [Info  - 9:54:24 AM] (20304) Starting service instance "nvidia"
+2023-08-01 09:54:24.690 [info] [Info  - 9:54:24 AM] (20304) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+2023-08-01 09:54:24.705 [info] [Warn  - 9:54:24 AM] (20304) stubPath /home/nvidia/typings is not a valid directory.
+2023-08-01 09:54:24.847 [info] [Info  - 9:54:24 AM] (20304) Assuming Python version 3.6
+2023-08-01 09:54:26.019 [info] [Info  - 9:54:26 AM] (20304) Found 198 source files
+2023-08-01 09:54:27.741 [info] [Info  - 9:54:27 AM] (20304) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-01 09:54:28.368 [info] [Info  - 9:54:28 AM] (20304) Background analysis(1) started
+2023-08-01 09:54:28.376 [info] [Info  - 9:54:28 AM] (20304) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-08-01 09:54:28.377 [info] [Info  - 9:54:28 AM] (20304) Indexing(2) started
+2023-08-01 09:54:30.859 [info] [Info  - 9:54:30 AM] (20304) [IDX(2)] Long operation: scan packages /home/nvidia (2666ms)
+2023-08-01 09:54:30.859 [info] [Info  - 9:54:30 AM] (20304) scanned(2) 192 files over 1 exec env
+2023-08-01 09:54:31.397 [info] [Info  - 9:54:31 AM] (20304) [BG(1)] Long operation: analyzing: /home/nvidia/balls-code/my-recognition.py (2903ms)
+2023-08-01 09:54:38.234 [info] [Info  - 9:54:38 AM] (20304) [IDX(2)] Long operation: index execution environment /home/nvidia (7058ms)
+2023-08-01 09:54:38.237 [info] [Info  - 9:54:38 AM] (20304) [IDX(2)] Long operation: index packages /home/nvidia (7124ms)
+2023-08-01 09:54:38.237 [info] [Info  - 9:54:38 AM] (20304) indexed(2) 113 files over 1 exec env
+2023-08-01 09:54:38.310 [info] [Info  - 9:54:38 AM] (20304) Indexing finished(2).

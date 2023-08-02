@@ -1,0 +1,117 @@
+2023-07-31 15:34:27.349 [info] Log level: Info
+2023-07-31 15:34:27.349 [info] Validating found git in: "git"
+2023-07-31 15:34:27.349 [info] Using git "2.17.1" from "git"
+2023-07-31 15:34:27.349 [info] > git rev-parse --show-toplevel [120ms]
+2023-07-31 15:34:27.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.349 [info] > git rev-parse --show-toplevel [5ms]
+2023-07-31 15:34:27.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.349 [info] > git rev-parse --show-toplevel [9ms]
+2023-07-31 15:34:27.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.349 [info] > git rev-parse --show-toplevel [4ms]
+2023-07-31 15:34:27.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.349 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-31 15:34:27.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.349 [info] > git rev-parse --show-toplevel [8ms]
+2023-07-31 15:34:27.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.352 [info] > git rev-parse --show-toplevel [4ms]
+2023-07-31 15:34:27.353 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.368 [info] > git rev-parse --show-toplevel [3ms]
+2023-07-31 15:34:27.368 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.389 [info] > git rev-parse --show-toplevel [4ms]
+2023-07-31 15:34:27.411 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-07-31 15:34:27.450 [info] Open repository: /home/nvidia/jetson-inference
+2023-07-31 15:34:27.575 [info] > git config --get commit.template [6ms]
+2023-07-31 15:34:27.577 [info] > git rev-parse --show-toplevel [109ms]
+2023-07-31 15:34:27.577 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.617 [info] > git rev-parse --show-toplevel [26ms]
+2023-07-31 15:34:27.618 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-07-31 15:34:27.636 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [26ms]
+2023-07-31 15:34:28.162 [info] > git check-ignore -v -z --stdin [9ms]
+2023-07-31 15:34:29.955 [info] > git status -z -uall [2298ms]
+2023-07-31 15:34:30.015 [info] > git config --get commit.template [5ms]
+2023-07-31 15:34:30.034 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-07-31 15:34:30.491 [info] > git rev-parse --show-toplevel [3ms]
+2023-07-31 15:34:30.510 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-07-31 15:34:30.524 [info] Open repository: /home/nvidia/jetson-inference/utils
+2023-07-31 15:34:30.559 [info] > git rev-parse --show-toplevel [19ms]
+2023-07-31 15:34:30.578 [info] > git config --get commit.template [19ms]
+2023-07-31 15:34:30.595 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2023-07-31 15:34:30.609 [info] Open repository: /home/nvidia/jetson-inference/tools/camera-capture
+2023-07-31 15:34:30.643 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [50ms]
+2023-07-31 15:34:30.661 [info] > git config --get commit.template [18ms]
+2023-07-31 15:34:30.662 [info] > git rev-parse --show-toplevel [37ms]
+2023-07-31 15:34:30.700 [info] > git rev-parse --git-dir --git-common-dir [18ms]
+2023-07-31 15:34:30.716 [info] Open repository: /home/nvidia/jetson-inference/python/training/classification
+2023-07-31 15:34:30.753 [info] > git status -z -uall [95ms]
+2023-07-31 15:34:30.754 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [56ms]
+2023-07-31 15:34:30.801 [info] > git status -z -uall [752ms]
+2023-07-31 15:34:30.801 [info] > git status -z -uall [33ms]
+2023-07-31 15:34:30.815 [info] > git config --get commit.template [64ms]
+2023-07-31 15:34:30.823 [info] > git rev-parse --show-toplevel [89ms]
+2023-07-31 15:34:30.855 [info] > git rev-parse --git-dir --git-common-dir [19ms]
+2023-07-31 15:34:30.868 [info] Open repository: /home/nvidia/jetson-inference/python/training/detection
+2023-07-31 15:34:30.883 [info] > git config --get commit.template [84ms]
+2023-07-31 15:34:30.918 [info] > git rev-parse --show-toplevel [35ms]
+2023-07-31 15:34:30.934 [info] > git config --get commit.template [81ms]
+2023-07-31 15:34:30.956 [info] > git config --get commit.template [39ms]
+2023-07-31 15:34:30.956 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [57ms]
+2023-07-31 15:34:30.988 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [36ms]
+2023-07-31 15:34:31.003 [info] > git rev-parse --git-dir --git-common-dir [70ms]
+2023-07-31 15:34:31.017 [info] Open repository: /home/nvidia/jetson-inference/python/training/segmentation
+2023-07-31 15:34:31.069 [info] > git status -z -uall [99ms]
+2023-07-31 15:34:31.069 [info] > git status -z -uall [67ms]
+2023-07-31 15:34:31.070 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [84ms]
+2023-07-31 15:34:31.115 [info] > git status -z -uall [31ms]
+2023-07-31 15:34:31.120 [info] > git config --get commit.template [52ms]
+2023-07-31 15:34:31.121 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [68ms]
+2023-07-31 15:34:31.144 [info] > git rev-parse --show-toplevel [107ms]
+2023-07-31 15:34:31.162 [info] > git status -z -uall [24ms]
+2023-07-31 15:34:31.178 [info] > git config --get commit.template [65ms]
+2023-07-31 15:34:31.209 [info] > git rev-parse --git-dir --git-common-dir [49ms]
+2023-07-31 15:34:31.220 [info] Open repository: /home/nvidia/jetson-inference/c/plugins/pose
+2023-07-31 15:34:31.269 [info] > git rev-parse --show-toplevel [34ms]
+2023-07-31 15:34:31.284 [info] > git config --get commit.template [77ms]
+2023-07-31 15:34:31.285 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [93ms]
+2023-07-31 15:34:31.304 [info] > git rev-parse --git-dir --git-common-dir [21ms]
+2023-07-31 15:34:31.315 [info] Open repository: /home/nvidia/jetson-inference/docker/containers
+2023-07-31 15:34:31.331 [info] > git config --get commit.template [65ms]
+2023-07-31 15:34:31.332 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [81ms]
+2023-07-31 15:34:31.388 [info] > git status -z -uall [88ms]
+2023-07-31 15:34:31.388 [info] > git status -z -uall [42ms]
+2023-07-31 15:34:31.389 [info] > git rev-parse --show-toplevel [59ms]
+2023-07-31 15:34:31.452 [info] > git rev-parse --git-dir --git-common-dir [48ms]
+2023-07-31 15:34:31.469 [info] Open repository: /home/nvidia/jetson-inference/ros
+2023-07-31 15:34:31.471 [info] > git config --get commit.template [93ms]
+2023-07-31 15:34:31.471 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [108ms]
+2023-07-31 15:34:31.525 [info] > git status -z -uall [39ms]
+2023-07-31 15:34:31.530 [info] > git config --get commit.template [81ms]
+2023-07-31 15:34:31.531 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [98ms]
+2023-07-31 15:34:31.564 [info] > git check-ignore -v -z --stdin [56ms]
+2023-07-31 15:34:31.565 [info] > git status -z -uall [20ms]
+2023-07-31 15:34:31.566 [info] > git config --get commit.template [43ms]
+2023-07-31 15:34:31.587 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [25ms]
+2023-07-31 15:34:31.646 [info] > git status -z -uall [44ms]
+2023-07-31 15:34:31.657 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [73ms]
+2023-07-31 15:34:31.689 [info] > git status -z -uall [17ms]
+2023-07-31 15:34:31.689 [info] > git config --get commit.template [44ms]
+2023-07-31 15:34:31.690 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [61ms]
+2023-07-31 15:34:31.708 [info] > git config --get commit.template [21ms]
+2023-07-31 15:34:31.727 [info] > git status -z -uall [23ms]
+2023-07-31 15:34:31.770 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [43ms]
+2023-07-31 15:34:31.787 [info] > git config --get commit.template [18ms]
+2023-07-31 15:34:31.787 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [34ms]
+2023-07-31 15:34:31.805 [info] > git status -z -uall [21ms]
+2023-07-31 15:34:31.826 [info] > git status -z -uall [24ms]
+2023-07-31 15:34:31.831 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [9ms]
+2023-07-31 15:34:31.864 [info] > git status -z -uall [15ms]
+2023-07-31 15:34:32.047 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-31 15:34:32.065 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-07-31 15:34:32.077 [info] Open repository: /home/nvidia/jetson-inference/python/training/detection/ssd
+2023-07-31 15:34:32.113 [info] > git check-ignore -v -z --stdin [19ms]
+2023-07-31 15:34:32.116 [info] > git config --get commit.template [6ms]
+2023-07-31 15:34:32.134 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2023-07-31 15:34:32.159 [info] > git status -z -uall [9ms]
+2023-07-31 15:34:32.190 [info] > git config --get commit.template [4ms]
+2023-07-31 15:34:32.211 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [6ms]
+2023-07-31 15:34:32.236 [info] > git status -z -uall [10ms]
+2023-07-31 15:34:32.728 [info] > git check-ignore -v -z --stdin [3ms]

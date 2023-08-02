@@ -1,0 +1,23 @@
+2023-07-31 15:56:52.548 [info] 
+
+
+
+
+2023-07-31 15:56:52.624 [info] Extension host agent started.
+2023-07-31 15:56:52.834 [info] [127.0.0.1][0e2dfe10][ManagementConnection] New connection established.
+2023-07-31 15:56:52.853 [info] [127.0.0.1][adadcebf][ExtensionHostConnection] New connection established.
+2023-07-31 15:56:53.191 [info] [127.0.0.1][adadcebf][ExtensionHostConnection] <15348> Launched Extension Host Process.
+2023-07-31 16:01:52.627 [info] New EH opened, aborting shutdown
+2023-07-31 17:22:20.450 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 17:22:20.456 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 17:22:20.460 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 17:22:20.461 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 17:22:20.463 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 17:22:20.502 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 17:22:20.505 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 17:22:20.509 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 17:22:20.512 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 17:22:20.515 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-31 20:50:16.578 [info] [127.0.0.1][adadcebf][ExtensionHostConnection] <15348> Extension Host Process exited with code: 0, signal: null.
+2023-07-31 20:50:16.580 [info] Last EH closed, waiting before shutting down
+2023-07-31 20:55:16.587 [info] Last EH closed, shutting down

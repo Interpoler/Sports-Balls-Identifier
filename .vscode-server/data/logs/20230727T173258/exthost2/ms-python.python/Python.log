@@ -1,0 +1,75 @@
+2023-07-27 17:38:09.954 [info] Experiment 'pythonaa' is active
+2023-07-27 17:38:09.954 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-07-27 17:38:09.954 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-07-27 17:38:09.954 [info] Experiment 'pythonTestAdaptercf' is active
+2023-07-27 17:38:11.277 [info] Test server listening.
+2023-07-27 17:38:11.301 [info] > conda info --json
+2023-07-27 17:38:11.360 [info] Found: /usr/bin/python --> /usr/bin/python2.7
+2023-07-27 17:38:11.374 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2023-07-27 17:38:11.379 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2023-07-27 17:38:11.381 [info] Found: /usr/bin/python3 --> /usr/bin/python3.6
+2023-07-27 17:38:11.382 [info] Found: /usr/bin/python3.6 --> /usr/bin/python3.6
+2023-07-27 17:38:11.389 [info] Found: /usr/include/python3.6 --> /usr/include/python3.6m
+2023-07-27 17:38:11.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-27 17:38:11.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-27 17:38:11.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-27 17:38:11.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-27 17:38:11.425 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-27 17:38:11.425 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-07-27 17:38:11.425 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-07-27 17:38:11.425 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-07-27 17:38:11.477 [info] > /usr/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-07-27 17:38:11.486 [warning] [Error: Command failed: /usr/bin/python -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
+2023-07-27 17:38:11.486 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-07-27 17:38:11.500 [info] > /usr/bin/python ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-07-27 17:38:11.532 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-07-27 17:38:11.562 [info] > /usr/include/python3.6 -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-07-27 17:38:11.566 [error] [Error: Command failed: /usr/include/python3.6 -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /usr/include/python3.6: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.6 -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
+2023-07-27 17:38:13.580 [info] > /usr/include/python3.6 -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-07-27 17:38:13.583 [error] [Error: Command failed: /usr/include/python3.6 -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /usr/include/python3.6: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.6 -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
+2023-07-27 17:38:13.658 [info] Python interpreter path: /usr/bin/python3
+2023-07-27 17:38:13.772 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-27 17:38:13.772 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-07-27 17:38:16.107 [info] Starting Pylance language server.
+2023-07-27 17:38:26.590 [info] Discover tests for workspace name: nvidia - uri: /home/nvidia/my-recognition/my-recognition.py

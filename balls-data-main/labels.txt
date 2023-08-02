@@ -1,0 +1,6 @@
+1. Basketball
+2. Cricket
+3. Golf
+4. Ping Pong
+5. Soccer
+6. Tennis

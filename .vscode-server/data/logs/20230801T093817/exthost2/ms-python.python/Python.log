@@ -1,0 +1,8 @@
+2023-08-01 09:45:31.161 [info] Experiment 'pythonaa' is active
+2023-08-01 09:45:31.161 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-01 09:45:31.161 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-01 09:45:31.161 [info] Experiment 'pythonTestAdaptercf' is active
+2023-08-01 09:45:31.161 [info] Test server listening.
+2023-08-01 09:45:31.164 [info] Python interpreter path: /usr/bin/python3
+2023-08-01 09:45:32.908 [info] Send text to terminal: /usr/bin/python3 /home/nvidia/balls-code/imagenet.py
+2023-08-01 09:45:35.859 [info] Starting Pylance language server.

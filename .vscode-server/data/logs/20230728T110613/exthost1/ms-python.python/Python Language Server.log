@@ -1,0 +1,18 @@
+2023-07-28 14:41:48.966 [info] [Info  - 2:41:48 PM] (22991) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-07-28 14:41:48.968 [info] [Info  - 2:41:48 PM] (22991) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-07-28 14:41:48.969 [info] [Info  - 2:41:48 PM] (22991) Starting service instance "nvidia"
+2023-07-28 14:41:49.128 [info] [Info  - 2:41:49 PM] (22991) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+2023-07-28 14:41:49.139 [info] [Warn  - 2:41:49 PM] (22991) stubPath /home/nvidia/typings is not a valid directory.
+2023-07-28 14:41:49.424 [info] [Info  - 2:41:49 PM] (22991) Assuming Python version 3.6
+2023-07-28 14:41:50.783 [info] [Info  - 2:41:50 PM] (22991) Found 194 source files
+2023-07-28 14:41:52.369 [info] [Info  - 2:41:52 PM] (22991) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-07-28 14:41:52.388 [info] [Info  - 2:41:52 PM] (22991) Background analysis(1) started
+2023-07-28 14:41:52.798 [info] [Info  - 2:41:52 PM] (22991) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-07-28 14:41:52.799 [info] [Info  - 2:41:52 PM] (22991) Indexing(2) started
+2023-07-28 14:41:55.217 [info] [Info  - 2:41:55 PM] (22991) [BG(1)] Long operation: getSemanticTokens full at /home/nvidia/jetson-inference/python/training/classification/onnx_export.py (2875ms)
+2023-07-28 14:41:56.028 [info] [Info  - 2:41:56 PM] (22991) [IDX(2)] Long operation: scan packages /home/nvidia (3203ms)
+2023-07-28 14:41:56.028 [info] [Info  - 2:41:56 PM] (22991) scanned(2) 192 files over 1 exec env
+2023-07-28 14:42:03.239 [info] [Info  - 2:42:03 PM] (22991) [IDX(2)] Long operation: index execution environment /home/nvidia (6882ms)
+2023-07-28 14:42:03.242 [info] [Info  - 2:42:03 PM] (22991) [IDX(2)] Long operation: index packages /home/nvidia (6971ms)
+2023-07-28 14:42:03.242 [info] [Info  - 2:42:03 PM] (22991) indexed(2) 113 files over 1 exec env
+2023-07-28 14:42:03.312 [info] [Info  - 2:42:03 PM] (22991) Indexing finished(2).

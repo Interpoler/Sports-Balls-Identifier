@@ -1,0 +1,19 @@
+2023-08-01 15:27:40.694 [info] [Info  - 3:27:40 PM] (25380) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-08-01 15:27:40.695 [info] [Info  - 3:27:40 PM] (25380) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-01 15:27:40.705 [info] [Info  - 3:27:40 PM] (25380) Starting service instance "jetson-inference"
+2023-08-01 15:27:40.844 [info] [Info  - 3:27:40 PM] (25380) Setting pythonPath for service "jetson-inference": "/usr/bin/python3"
+2023-08-01 15:27:40.858 [info] [Warn  - 3:27:40 PM] (25380) stubPath /home/nvidia/jetson-inference/typings is not a valid directory.
+2023-08-01 15:27:41.060 [info] [Info  - 3:27:41 PM] (25380) Assuming Python version 3.6
+2023-08-01 15:27:42.169 [info] [Info  - 3:27:42 PM] (25380) Found 193 source files
+2023-08-01 15:27:43.998 [info] [Info  - 3:27:43 PM] (25380) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-01 15:27:43.999 [info] [Info  - 3:27:43 PM] (25380) Background analysis(1) started
+2023-08-01 15:27:44.454 [info] [Info  - 3:27:44 PM] (25380) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-08-01 15:27:44.455 [info] [Info  - 3:27:44 PM] (25380) Indexing(2) started
+2023-08-01 15:27:47.083 [info] [Info  - 3:27:47 PM] (25380) [IDX(2)] Long operation: scan packages /home/nvidia/jetson-inference (2593ms)
+2023-08-01 15:27:47.084 [info] [Info  - 3:27:47 PM] (25380) scanned(2) 192 files over 1 exec env
+2023-08-01 15:27:47.309 [info] [Info  - 3:27:47 PM] (25380) [BG(1)] Long operation: checking: /home/nvidia/jetson-inference/python/training/classification/onnx_export.py (2012ms)
+2023-08-01 15:27:47.310 [info] [Info  - 3:27:47 PM] (25380) [BG(1)] Long operation: analyzing: /home/nvidia/jetson-inference/python/training/classification/onnx_export.py (3340ms)
+2023-08-01 15:27:54.509 [info] [Info  - 3:27:54 PM] (25380) [IDX(2)] Long operation: index execution environment /home/nvidia/jetson-inference (7157ms)
+2023-08-01 15:27:54.512 [info] [Info  - 3:27:54 PM] (25380) [IDX(2)] Long operation: index packages /home/nvidia/jetson-inference (7218ms)
+2023-08-01 15:27:54.513 [info] [Info  - 3:27:54 PM] (25380) indexed(2) 113 files over 1 exec env
+2023-08-01 15:27:54.606 [info] [Info  - 3:27:54 PM] (25380) Indexing finished(2).

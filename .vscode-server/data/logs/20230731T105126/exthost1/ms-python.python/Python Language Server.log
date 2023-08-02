@@ -1,0 +1,18 @@
+2023-07-31 10:51:36.672 [info] [Info  - 10:51:36 AM] (6672) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-07-31 10:51:36.754 [info] [Info  - 10:51:36 AM] (6672) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-07-31 10:51:36.856 [info] [Info  - 10:51:36 AM] (6672) Starting service instance "nvidia"
+2023-07-31 10:51:37.418 [info] [Info  - 10:51:37 AM] (6672) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+2023-07-31 10:51:37.420 [info] [Warn  - 10:51:37 AM] (6672) stubPath /home/nvidia/typings is not a valid directory.
+2023-07-31 10:51:37.599 [info] [Info  - 10:51:37 AM] (6672) Assuming Python version 3.6
+2023-07-31 10:51:38.840 [info] [Info  - 10:51:38 AM] (6672) Found 194 source files
+2023-07-31 10:51:38.968 [info] [Info  - 10:51:38 AM] (6672) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-07-31 10:51:38.977 [info] [Info  - 10:51:38 AM] (6672) Background analysis(1) started
+2023-07-31 10:51:40.971 [info] [Info  - 10:51:40 AM] (6672) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-07-31 10:51:40.972 [info] [Info  - 10:51:40 AM] (6672) Indexing(2) started
+2023-07-31 10:51:43.785 [info] [Info  - 10:51:43 AM] (6672) [IDX(2)] Long operation: scan packages /home/nvidia (2775ms)
+2023-07-31 10:51:43.785 [info] [Info  - 10:51:43 AM] (6672) scanned(2) 192 files over 1 exec env
+2023-07-31 10:51:50.622 [info] [Info  - 10:51:50 AM] (6672) [IDX(2)] Long operation: index execution environment /home/nvidia (6508ms)
+2023-07-31 10:51:50.625 [info] [Info  - 10:51:50 AM] (6672) [IDX(2)] Long operation: index packages /home/nvidia (6575ms)
+2023-07-31 10:51:50.625 [info] [Info  - 10:51:50 AM] (6672) indexed(2) 113 files over 1 exec env
+2023-07-31 10:51:50.681 [info] [Info  - 10:51:50 AM] (6672) Indexing finished(2).
+2023-07-31 10:52:30.611 [info] [Info  - 10:52:30 AM] (6672) [BG(1)] Long operation: getSemanticTokens full at /home/nvidia/jetson-inference/python/training/classification/nuswide.py (2710ms)

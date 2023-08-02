@@ -1,0 +1,7 @@
+2023-08-01 09:15:14.591 [info] Experiment 'pythonaa' is active
+2023-08-01 09:15:14.591 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-01 09:15:14.591 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-01 09:15:14.591 [info] Experiment 'pythonTestAdaptercf' is active
+2023-08-01 09:15:16.031 [info] Test server listening.
+2023-08-01 09:15:16.035 [info] Python interpreter path: /usr/bin/python3
+2023-08-01 09:15:20.015 [info] Starting Pylance language server.

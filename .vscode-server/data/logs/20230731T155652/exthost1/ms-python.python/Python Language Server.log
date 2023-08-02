@@ -1,0 +1,25 @@
+2023-07-31 15:57:01.921 [info] [Info  - 3:57:01 PM] (15489) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-07-31 15:57:01.923 [info] [Info  - 3:57:01 PM] (15489) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-07-31 15:57:01.923 [info] [Info  - 3:57:01 PM] (15489) Starting service instance "nvidia"
+2023-07-31 15:57:02.132 [info] [Info  - 3:57:02 PM] (15489) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+2023-07-31 15:57:02.139 [info] [Warn  - 3:57:02 PM] (15489) stubPath /home/nvidia/typings is not a valid directory.
+2023-07-31 15:57:02.327 [info] [Info  - 3:57:02 PM] (15489) Assuming Python version 3.6
+2023-07-31 15:57:03.130 [info] [Info  - 3:57:03 PM] (15489) Found 194 source files
+2023-07-31 15:57:04.981 [info] [Info  - 3:57:04 PM] (15489) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-07-31 15:57:04.981 [info] [Info  - 3:57:04 PM] (15489) Background analysis(1) started
+2023-07-31 15:57:05.578 [info] [Info  - 3:57:05 PM] (15489) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-07-31 15:57:05.578 [info] [Info  - 3:57:05 PM] (15489) Indexing(2) started
+2023-07-31 15:57:07.147 [info] [Info  - 3:57:07 PM] (15489) [BG(1)] Long operation: getSemanticTokens full at /home/nvidia/my-recognition/my-recognition.py (2195ms)
+2023-07-31 15:57:08.118 [info] [Info  - 3:57:08 PM] (15489) [IDX(2)] Long operation: scan packages /home/nvidia (2513ms)
+2023-07-31 15:57:08.118 [info] [Info  - 3:57:08 PM] (15489) scanned(2) 192 files over 1 exec env
+2023-07-31 15:57:15.299 [info] [Info  - 3:57:15 PM] (15489) [IDX(2)] Long operation: index execution environment /home/nvidia (6921ms)
+2023-07-31 15:57:15.303 [info] [Info  - 3:57:15 PM] (15489) [IDX(2)] Long operation: index packages /home/nvidia (6976ms)
+2023-07-31 15:57:15.303 [info] [Info  - 3:57:15 PM] (15489) indexed(2) 113 files over 1 exec env
+2023-07-31 15:57:15.360 [info] [Info  - 3:57:15 PM] (15489) Indexing finished(2).
+2023-07-31 16:13:38.720 [info] [Info  - 4:13:38 PM] (15489) Found 194 source files
+2023-07-31 16:13:54.348 [info] [Info  - 4:13:54 PM] (15489) Found 194 source files
+2023-07-31 16:55:37.129 [info] [Info  - 4:55:37 PM] (15489) Found 198 source files
+2023-07-31 16:56:18.198 [info] [Info  - 4:56:18 PM] (15489) Found 198 source files
+2023-07-31 17:22:23.552 [info] [Info  - 5:22:23 PM] (15489) Found 5 source files
+2023-07-31 17:24:14.045 [info] [Info  - 5:24:14 PM] (15489) Found 59 source files
+2023-07-31 17:25:22.390 [info] [Info  - 5:25:22 PM] (15489) Found 173 source files

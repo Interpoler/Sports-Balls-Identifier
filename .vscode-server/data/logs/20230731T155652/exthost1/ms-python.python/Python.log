@@ -1,0 +1,13 @@
+2023-07-31 15:56:57.806 [info] Experiment 'pythonaa' is active
+2023-07-31 15:56:57.806 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-07-31 15:56:57.806 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-07-31 15:56:57.806 [info] Experiment 'pythonTestAdaptercf' is active
+2023-07-31 15:56:57.859 [info] Test server listening.
+2023-07-31 15:56:57.862 [info] Python interpreter path: /usr/bin/python3
+2023-07-31 15:57:02.017 [info] Starting Pylance language server.
+2023-07-31 16:05:33.250 [info] Discover tests for workspace name: nvidia - uri: /home/nvidia/my-recognition/my-recognition.py
+2023-07-31 16:13:38.332 [info] Discover tests for workspace name: nvidia - uri: /home/nvidia/.vscode-server/data/User/History/5d410af0/SzcW.py
+2023-07-31 16:13:53.476 [info] Discover tests for workspace name: nvidia - uri: /home/nvidia/.vscode-server/data/User/History/195da321/d6Aq.py
+2023-07-31 16:55:36.555 [info] Discover tests for workspace name: nvidia - uri: /home/nvidia/MaxY/train.py
+2023-07-31 17:24:13.274 [info] Discover tests for workspace name: nvidia - uri: /home/nvidia/jetson-inference/python/www/flask/model.py
+2023-07-31 17:25:21.714 [info] Discover tests for workspace name: nvidia - uri: /home/nvidia/jetson-inference/utils/python/examples/cuda-examples.py

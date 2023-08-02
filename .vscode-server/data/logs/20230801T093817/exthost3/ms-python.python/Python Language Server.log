@@ -1,0 +1,19 @@
+2023-08-01 09:47:08.479 [info] [Info  - 9:47:08 AM] (18793) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-08-01 09:47:08.480 [info] [Info  - 9:47:08 AM] (18793) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-01 09:47:08.480 [info] [Info  - 9:47:08 AM] (18793) Starting service instance "nvidia"
+2023-08-01 09:47:08.661 [info] [Info  - 9:47:08 AM] (18793) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+2023-08-01 09:47:08.667 [info] [Warn  - 9:47:08 AM] (18793) stubPath /home/nvidia/typings is not a valid directory.
+2023-08-01 09:47:08.801 [info] [Info  - 9:47:08 AM] (18793) Assuming Python version 3.6
+2023-08-01 09:47:09.896 [info] [Info  - 9:47:09 AM] (18793) Found 198 source files
+2023-08-01 09:47:11.699 [info] [Info  - 9:47:11 AM] (18793) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-08-01 09:47:11.699 [info] [Info  - 9:47:11 AM] (18793) Background analysis(1) started
+2023-08-01 09:47:12.279 [info] [Info  - 9:47:12 AM] (18793) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-08-01 09:47:12.279 [info] [Info  - 9:47:12 AM] (18793) Indexing(2) started
+2023-08-01 09:47:14.843 [info] [Info  - 9:47:14 AM] (18793) [IDX(2)] Long operation: scan packages /home/nvidia (2537ms)
+2023-08-01 09:47:14.843 [info] [Info  - 9:47:14 AM] (18793) scanned(2) 192 files over 1 exec env
+2023-08-01 09:47:15.033 [info] [Info  - 9:47:15 AM] (18793) [BG(1)] Long operation: checking: /home/nvidia/balls-code/imagenet.py (2105ms)
+2023-08-01 09:47:15.034 [info] [Info  - 9:47:15 AM] (18793) [BG(1)] Long operation: analyzing: /home/nvidia/balls-code/imagenet.py (3332ms)
+2023-08-01 09:47:21.867 [info] [Info  - 9:47:21 AM] (18793) [IDX(2)] Long operation: index execution environment /home/nvidia (6766ms)
+2023-08-01 09:47:21.869 [info] [Info  - 9:47:21 AM] (18793) [IDX(2)] Long operation: index packages /home/nvidia (6824ms)
+2023-08-01 09:47:21.870 [info] [Info  - 9:47:21 AM] (18793) indexed(2) 113 files over 1 exec env
+2023-08-01 09:47:21.940 [info] [Info  - 9:47:21 AM] (18793) Indexing finished(2).

@@ -1,0 +1,18 @@
+2023-07-28 10:20:35.283 [info] [Info  - 10:20:34 AM] (8315) Pylance language server 2023.7.40 (pyright b917b7a5) starting
+2023-07-28 10:20:35.292 [info] [Info  - 10:20:35 AM] (8315) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-07-28 10:20:35.294 [info] [Info  - 10:20:35 AM] (8315) Starting service instance "nvidia"
+2023-07-28 10:20:35.553 [info] [Info  - 10:20:35 AM] (8315) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+2023-07-28 10:20:35.580 [info] [Warn  - 10:20:35 AM] (8315) stubPath /home/nvidia/typings is not a valid directory.
+2023-07-28 10:20:36.312 [info] [Info  - 10:20:36 AM] (8315) Assuming Python version 3.6
+2023-07-28 10:20:38.547 [info] [Info  - 10:20:38 AM] (8315) Found 194 source files
+2023-07-28 10:20:41.105 [info] [Info  - 10:20:41 AM] (8315) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist
+2023-07-28 10:20:41.106 [info] [Info  - 10:20:41 AM] (8315) Background analysis(1) started
+2023-07-28 10:20:41.683 [info] [Info  - 10:20:41 AM] (8315) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.40/dist (index)
+2023-07-28 10:20:41.684 [info] [Info  - 10:20:41 AM] (8315) Indexing(2) started
+2023-07-28 10:20:44.468 [info] [Info  - 10:20:44 AM] (8315) [BG(1)] Long operation: getSemanticTokens full at /home/nvidia/my-recognition/my-recognition.py (3409ms)
+2023-07-28 10:20:46.661 [info] [Info  - 10:20:46 AM] (8315) [IDX(2)] Long operation: scan packages /home/nvidia (4843ms)
+2023-07-28 10:20:46.662 [info] [Info  - 10:20:46 AM] (8315) scanned(2) 192 files over 1 exec env
+2023-07-28 10:20:56.378 [info] [Info  - 10:20:56 AM] (8315) [IDX(2)] Long operation: index execution environment /home/nvidia (9301ms)
+2023-07-28 10:20:56.381 [info] [Info  - 10:20:56 AM] (8315) [IDX(2)] Long operation: index packages /home/nvidia (9415ms)
+2023-07-28 10:20:56.381 [info] [Info  - 10:20:56 AM] (8315) indexed(2) 113 files over 1 exec env
+2023-07-28 10:20:56.476 [info] [Info  - 10:20:56 AM] (8315) Indexing finished(2).

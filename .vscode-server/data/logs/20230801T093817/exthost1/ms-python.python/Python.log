@@ -1,0 +1,9 @@
+2023-08-01 09:38:23.247 [info] Experiment 'pythonaa' is active
+2023-08-01 09:38:23.248 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-01 09:38:23.248 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-01 09:38:23.248 [info] Experiment 'pythonTestAdaptercf' is active
+2023-08-01 09:38:23.248 [info] Test server listening.
+2023-08-01 09:38:23.251 [info] Python interpreter path: /usr/bin/python3
+2023-08-01 09:38:27.389 [info] Starting Pylance language server.
+2023-08-01 09:42:00.592 [info] Send text to terminal: /usr/bin/python3 /home/nvidia/balls-code/imagenet.py
+2023-08-01 09:42:07.132 [info] Send text to terminal: /usr/bin/python3 /home/nvidia/recognition/recognition.py
