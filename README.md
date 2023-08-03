@@ -1,7 +1,5 @@
-Sports Balls Identifier
-
+## Sports Balls Identifier
 My sports ball identifier can identify 12 different types of balls through image classification via imagenet
-
 This is a showcase of my project classifying a baseball
 https://imgur.com/a/v5GqdQb
 
@@ -9,7 +7,6 @@ https://imgur.com/a/v5GqdQb
 Image classification works by loading a pre-trained deep learning model, preprocessing the input image, and passing it through the model. The model computes probabilities for each class label, and post-processing selects the highest probability label as the prediction. I have a dataset consisting of 6000 photos of the 12 types of balls for training, I trained my model for 34 epochs so that my jetson can accurately differentiate between the 12 types of balls.
 
 ## Running this project
-
 1. Download everything in code
 2. Setup your nano to your computer hotspot's ip address
 3. Connect to the ip address of the nano via vscode
