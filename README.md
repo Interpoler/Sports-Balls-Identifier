@@ -10,9 +10,9 @@ I can integrate my image recognizer on sports balls to a camera used for sports 
 Image classification works by loading a pre-trained deep learning model, preprocessing the input image, and passing it through the model. The model computes probabilities for each class label, and post-processing selects the highest probability label as the prediction. I have a dataset consisting of 6000 photos of the 12 types of balls for training, I trained my model for 34 epochs so that my jetson can accurately differentiate between the 12 types of balls.
 
 ## Running this project
-1. Download everything in code
+1. Download everything in code section
 2. Setup your nano to your computer hotspot's ip address
-3. Connect to the ip address of the nano via vscode
+3. Connect to the ip address of the nano via vscode, make sure you are in the nano.
 4. Paste all the code into vscode
 5. Type the commands below seperately
 
