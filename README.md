@@ -24,7 +24,7 @@ Image classification works by loading a pre-trained deep learning model, preproc
 12. imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/(ball you want to recognize)/(specific image)      6. (output image name)
 
 ## Video Explanantion
-[View a video explanation here](video link)
+[[View a video explanation here](video link)](https://www.youtube.com/watch?v=mUhJSfCmt1A)
 
 
 
