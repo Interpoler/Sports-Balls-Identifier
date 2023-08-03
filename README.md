@@ -3,6 +3,9 @@ My sports ball identifier can identify 12 different types of balls through image
 This is a showcase of my project classifying a baseball
 https://imgur.com/a/v5GqdQb
 
+## Potential Use of My Project
+I can integrate my image recognizer on sports balls to a camera used for sports ball sorting. This can help speed up the sorting of balls in recreational centers also streamlining equipment management. This optimizes the efficiency of the sports center.
+
 ## The Algorithm
 Image classification works by loading a pre-trained deep learning model, preprocessing the input image, and passing it through the model. The model computes probabilities for each class label, and post-processing selects the highest probability label as the prediction. I have a dataset consisting of 6000 photos of the 12 types of balls for training, I trained my model for 34 epochs so that my jetson can accurately differentiate between the 12 types of balls.
 
