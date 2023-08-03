@@ -13,14 +13,15 @@ Image classification works by loading a pre-trained deep learning model, preproc
 1. Download everything in code section
 2. Setup your nano to your computer hotspot's ip address
 3. Connect to the ip address of the nano via vscode, make sure you are in the nano.
-4. Paste all the code into vscode
-5. Type the commands below seperately
-
-1. cd
-2. cd jetson-inference/python/training/classification
-3. NET=models/cat_dog
-4. DATASET=data/cat_dog
-5. imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/(ball you want to recognize)/(specific image)      6. (output image name)
+4. Make sure to have python packages installed using "sudo apt-get install libpython3-dev python3-numpy"
+5. Make a build directory and run "cmake ../" in the build directory
+6. Paste all the code into vscode
+7. Type the commands below seperately
+8. cd
+9. cd jetson-inference/python/training/classification
+10. NET=models/cat_dog
+11. DATASET=data/cat_dog
+12. imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/(ball you want to recognize)/(specific image)      6. (output image name)
 
 ## Video Explanantion
 [View a video explanation here](video link)
